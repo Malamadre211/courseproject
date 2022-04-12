@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="FR-fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ubisoft</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <section class="header">
+        <div class="navbar">
+            <img src="/images/logo.png" alt="">
+            <li><a href="index.html">Release</a></li>
+            <li><a href="store.html">Games</a></li>
+            <li><a href="">Contacts</a></li>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="gauche">
+            <h1>FAR CRY 6</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
+                Cras vitae est quis lectus vestibulum pulvinar eget sed nunc. <br>
+                Ut ultricies lorem nisi, vitae egestas libero semper sed. <br>
+                <br>
+                Morbi consectetur velit augue, quis lacinia purus faucibus non. <br>
+                Integer in nisl a orci congue eleifend. <br>
+                Phasellus placerat ultrices auctor.</p>
+                <button class="btn">Play Now</button>
+        </div>
+        <div class="droite">
+            <img src="/images/img1.png" alt="">
+        </div>
+    </div>
+
+    <div class="container2">
+        <div class="groupe">
+        <h2>Season Pass</h2>
+        <h6>Experience the story and play with its villains in the FAR CRY® 6 Season Pass.</h6>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
+            Cras vitae est quis lectus vestibulum pulvinar eget sed nunc. <br>
+            Ut ultricies lorem nisi, vitae egestas libero semper sed. <br>
+            <br>
+            Morbi consectetur velit augue, quis lacinia purus faucibus non. <br>
+            Integer in nisl a orci congue eleifend. <br>
+            Phasellus placerat ultrices auctor.</p>
+            <button class="btn">Buy Now</button>
+        </div>
+    </div>
+
+    <div class="container3">
+        <div class="gauche2">
+            <h1>Community</h1>
+            <h6>A huge collection of guides and video tutorials from the community.</h6>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br>
+                Cras vitae est quis lectus vestibulum pulvinar eget sed nunc. <br>
+                Ut ultricies lorem nisi, vitae egestas libero semper sed. <br>
+                <br>
+                Morbi consectetur velit augue, quis lacinia purus faucibus non. <br>
+                Integer in nisl a orci congue eleifend. <br>
+                Phasellus placerat ultrices auctor.</p>
+                <button class="btn">Join Now</button>
+        </div>
+        <div class="droite2">
+            <img src="/images/img3.png" alt="">
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="subdivision">
+        <div class="gauche3">
+            <a href="">Store</a>
+            <p>Lorem ipsum dolor sit amet, <br>
+                consectetur adipiscing elit.</p>
+        </div>
+        <div class="center">
+            <a href="">News</a>
+            <p>Lorem ipsum dolor sit amet, <br>
+                consectetur adipiscing elit.</p>
+        </div>
+        <div class="droite3">
+            <a href="">Support</a>
+            <p>Lorem ipsum dolor sit amet, <br>
+                consectetur adipiscing elit.</p>
+        </div>
+    </div>
+    <div class="tout">
+        <p>Ubisoft - &copy; Copyright All Right Reserved</p>
+    </div>
+    </footer>
+
+</body>
+</html>
